@@ -40,7 +40,7 @@ function ResponsiveAppBar() {
       <Container maxWidth="xl">
         <Toolbar disableGutters>
           <IconButton  sx={{ width: 12, height: 12, p: 0, marginRight: 3,}}>
-                <Avatar alt="Test" src="https://pt.vecteezy.com/arte-vetorial/5366274-pets-care-logo-veterinary-logo" />
+                <Avatar alt="Test" src="img/50c3760c4f9fd7df41c5d40e3a72b259.jpg" />
               </IconButton>
           <Typography
             variant="h6"
@@ -127,7 +127,7 @@ function ResponsiveAppBar() {
           <Box sx={{ flexGrow: 0 }}>
             <Tooltip title="Open settings">
               <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
-                <Avatar alt="Remy Sharp" src="https://pt.vecteezy.com/arte-vetorial/5731543-ilustracao-do-logo-da-clinica-veterinaria" />
+                <Avatar alt="Remy Sharp" src="img/download.jpeg" />
               </IconButton>
             </Tooltip>
             <Menu
