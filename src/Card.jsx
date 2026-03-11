@@ -10,8 +10,8 @@ export default function MediaCard() {
    <Card elevation={8} sx={{ maxWidth: 1300, marginTop: 10, color: '#CBE986', mx: 'auto',}}>
   <CardMedia
   component="img" 
-  image="/img/DogAndCat.jpg" 
-  title="img_PETS"
+  image="https://unsplash.com/pt-br/fotografias/um-cao-e-um-gato-deitados-na-grama-ouo1hbizWwo" 
+  title="PETS"
   sx={{ 
     width: '100%',     
     height: 'auto',    
