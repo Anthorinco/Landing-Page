@@ -14,7 +14,7 @@ export default function Title() {
     marginTop: '2rem'
   }}
 >
-    Clínica Veterinária <br/>
+    Clínica Veterinária Almeida <br/>
   Cuidamos de quem você ama.
 </Typography>
     );
